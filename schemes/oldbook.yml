@@ -1,0 +1,20 @@
+# 3024 scheme for the Base16 Builder (https://github.com/chriskempson/base16-builder)
+scheme: "Old Book"
+author: "Glenn R. Martin (http://github.com/grmartin)"
+
+base00: "d7d3b6" #  ----
+base01: "e2dfc9" #  ---
+base02: "808080" #  --
+base03: "646464" #  -
+base04: "476997" #  +
+base05: "294277" #  ++
+base06: "a8ae54" #  +++
+base07: "575702" #  ++++
+base08: "3c2322" #	red
+base09: "118003" #	orange
+base0A: "2c339d" #	yellow
+base0B: "802a19" #	green
+base0C: "399c8a" #	aqua
+base0D: "7154ae" #	blue
+base0E: "9c6e39" #	purple
+base0F: "9c5422" #	brown
